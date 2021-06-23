@@ -3,8 +3,8 @@ Repositório da Turma 12 de Lógica
 
 # Baixando os arquivos de Exemplo
 
-1. Clique no botão CODE (botão verde acima)
-2. Escolha a opção Download ZIP
+1. Clique no botão **CODE** (botão verde acima)
+2. Escolha a opção **Download ZIP**
 
 
 # Abrir os arquivos de Exemplo no Portugol Studio
