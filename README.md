@@ -1,4 +1,4 @@
-# lp12
+# Lógica de Programação
 Repositório da Turma 12 de Lógica
 
 # Baixando os arquivos de Exemplo
