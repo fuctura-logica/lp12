@@ -11,4 +11,4 @@ Repositório da Turma 12 de Lógica
 
 1. Abrir o Portugol Studio
 2. Clicar no ícone de Pasta (Do lado esquerdo, terceiro de baixo para cima)
-3. Apontar para os arquivo de exemplo 
+3. Apontar para os arquivos de exemplo .por (ex1.por, ex2.por, ex3.por) 
